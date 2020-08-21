@@ -1,12 +1,11 @@
-body {
-    font-family: 'TsukuARdGothic-Regular',sans-serif;
-}
-
 h1 {
     background-color: #d8bfd8;
-
+    font-family: cursive
 }
 
+main {
+    font-family: 'TsukuARdGothic-Regular',sans-serif;
+}
 
 h2 {
     color: rgb(165, 119, 207);
