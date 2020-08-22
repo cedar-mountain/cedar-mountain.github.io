@@ -12,7 +12,7 @@ main {
 }
 
 .contents clearfix::after {
-    contents: "";
+    content: "";
     display: block;
     clear: both;
 }
