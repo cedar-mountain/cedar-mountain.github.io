@@ -11,6 +11,12 @@ main {
     font-family: 'TsukuARdGothic-Regular',sans-serif;
 }
 
+.contents clearfix::after {
+    contents: "";
+    display: block;
+    clear: both;
+}
+
 h2 {
     color: rgb(165, 119, 207);
     border-top: 2px double #d8bfd8
