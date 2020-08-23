@@ -29,6 +29,9 @@ h3 {
 
 .contents-item {
     float: left;
+}
+
+img {
     border-radius: 5%;
 }
 
