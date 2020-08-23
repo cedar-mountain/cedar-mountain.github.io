@@ -11,6 +11,10 @@ main {
     font-family: 'TsukuARdGothic-Regular',sans-serif;
 }
 
+a:hover {
+    background-color: #cccccc;
+}
+
 .contents.clearfix::after {
     content: "";
     display: block;
