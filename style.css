@@ -11,7 +11,7 @@ main {
     font-family: 'TsukuARdGothic-Regular',sans-serif;
 }
 
-.contents-item a:hover {
+.contents-item.a:hover {
     background-color: #cccccc;
 }
 
