@@ -31,6 +31,10 @@ h3 {
     border-bottom: 2px dashed ;
 }
 
+p {
+    font-size: 17px;
+}
+
 .contents-item {
     padding: 5px;
 }
