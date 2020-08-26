@@ -1,3 +1,7 @@
+body {
+    width: 100%;
+}
+
 h1 {
     background-color: #d8bfd8;
     font-family: cursive
@@ -43,11 +47,9 @@ img {
     position: fixed;
     bottom: 20px;
     right: 20px;
-  }
+}
   
-   
-  
-  #pageTop a {
+#pageTop a {
     display: block;
     z-index: 999;
     padding: 8px 0 0 8px;
@@ -59,11 +61,22 @@ img {
     font-weight: bold;
     text-decoration: none;
     text-align: center;
-  }
-  
-   
-  
-  #pageTop a:hover {
+}
+    
+#pageTop a:hover {
     text-decoration: none;
     opacity: 0.7;
+}
+
+input, textarea {
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid #dee7ec;
+}
+
+.contact-submit {
+    background-color: #9FD6D2;
   }
