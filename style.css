@@ -38,6 +38,7 @@ p {
 
 .contents-item {
     padding: 5px;
+    float: left;
 }
 
 .contents-item p {
